@@ -1,0 +1,2 @@
+# autoscreenshot
+Automatically taking screenshots
